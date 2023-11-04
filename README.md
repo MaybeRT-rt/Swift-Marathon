@@ -1,48 +1,9 @@
 # Swift-Marathon
 
 
-| Link      | Stack              | Screenshot or Gif |
-| ----------|:------------------:| -----:|
-| [Dice](https://github.com/MaybeRT-rt/Dice) |  |  |
-| [Calculator](https://github.com/MaybeRT-rt/Calculator) | <img align="left" src="https://github.com/MaybeRT-rt/gif/blob/main/Simulator Screenshot - iPhone 13 - 2023-11-02 at 18.25.57.png" width="150" height="330"> |   |
-| [Xylophone](https://github.com/MaybeRT-rt/Xylophone)|     Stack:
-- Swift 5
-- UIKit
-- AVFoundation
-- MVC
-- Pattern Delegate
-- GCD
-- Minimal UI Animation    | <img align="left" src="https://github.com/MaybeRT-rt/gif/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-11-02%20at%2012.41.51.png" width="150" height="330"> |
-| |         |  |
-| |         |  |
-
-
-
-
-[Xylophone](https://github.com/MaybeRT-rt/Xylophone)
-
-Stack:
-- Swift 5
-- UIKit
-- AVFoundation
-- MVC
-- Pattern Delegate
-- GCD
-- Minimal UI Animation
-
-<img align="left" src="https://github.com/MaybeRT-rt/gif/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-11-02%20at%2012.41.51.png" width="150" height="330">
-
-<br><br><br><br><br><br>
-
-[Egg-Timer](https://github.com/MaybeRT-rt/Egg-Timer)
-
- Stack:
-
-- Swift 5
-- UIKit
-- AVFoundation
-- Pattern Delegate
-- Minimal UI Animation
-
-<br><br><br><br><br><br><br>
-<img align="left" src="https://github.com/MaybeRT-rt/gif/blob/main/Simulator-Screen-Recording-iPhone-14-Pro-2023-11-03-at-20.54.21.gif" width="150" height="330">
+| Link                                          | Stack                                                     | Screenshot or Gif                                      |
+| --------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------- |
+| [Dice](https://github.com/MaybeRT-rt/Dice)    |                                                           |                                                         |
+| [Calculator](https://github.com/MaybeRT-rt/Calculator) | ![Calculator Screenshot](https://github.com/MaybeRT-rt/gif/blob/main/Simulator%20Screenshot%20-%20iPhone%2013%20-%202023-11-02%20at%2018.25.57.png) |                                                         |
+| [Xylophone](https://github.com/MaybeRT-rt/Xylophone) | Stack: <br>- Swift 5 <br>- UIKit <br>- AVFoundation <br>- MVC <br>- Pattern Delegate <br>- GCD <br>- Minimal UI Animation | ![Xylophone Screenshot](https://github.com/MaybeRT-rt/gif/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-11-02%20at%2012.41.51.png) |
+| [Egg-Timer](https://github.com/MaybeRT-rt/Egg-Timer) | Stack: <br>- Swift 5 <br>- UIKit <br>- AVFoundation <br>- Pattern Delegate <br>- Minimal UI Animation | ![Egg-Timer Gif](https://github.com/MaybeRT-rt/gif/blob/main/Simulator-Screen-Recording-iPhone-14-Pro-2023-11-03-at-20.54.21.gif) |
