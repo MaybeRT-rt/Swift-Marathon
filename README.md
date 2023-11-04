@@ -1,11 +1,24 @@
 # Swift-Marathon
 
-[Dice](https://github.com/MaybeRT-rt/Dice)
-<br><br><br><br><br><br>
-[Calculator](https://github.com/MaybeRT-rt/Calculator)
 
-<img align="left" src="https://github.com/MaybeRT-rt/gif/blob/main/Simulator Screenshot - iPhone 13 - 2023-11-02 at 18.25.57.png" width="150" height="330">
-<br><br><br><br><br><br>
+| Link      | Stack              | Screenshot or Gif |
+| ----------|:------------------:| -----:|
+| [Dice](https://github.com/MaybeRT-rt/Dice) |  |  |
+| [Calculator](https://github.com/MaybeRT-rt/Calculator) | <img align="left" src="https://github.com/MaybeRT-rt/gif/blob/main/Simulator Screenshot - iPhone 13 - 2023-11-02 at 18.25.57.png" width="150" height="330"> |   |
+| [Xylophone](https://github.com/MaybeRT-rt/Xylophone)|     Stack:
+- Swift 5
+- UIKit
+- AVFoundation
+- MVC
+- Pattern Delegate
+- GCD
+- Minimal UI Animation    | <img align="left" src="https://github.com/MaybeRT-rt/gif/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-11-02%20at%2012.41.51.png" width="150" height="330"> |
+| |         |  |
+| |         |  |
+
+
+
+
 [Xylophone](https://github.com/MaybeRT-rt/Xylophone)
 
 Stack:
