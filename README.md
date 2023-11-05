@@ -1,6 +1,6 @@
 # Swift-Marathon
 
-| Link                                          | Stack                                                     | Screenshot or Gif                                      |
+| Link                                          | Stack                                                     | Screenshot                                    |
 | --------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------- |
 | [Dice](https://github.com/MaybeRT-rt/Dice)    |                                                           |        <img align="left" src="https://github.com/MaybeRT-rt/gif/blob/main/dice.png" width="150">                                                  |
 | [Calculator](https://github.com/MaybeRT-rt/Calculator) |  | <img align="left" src="https://github.com/MaybeRT-rt/gif/blob/main/calc.png" width="150">                                                        |
