@@ -6,3 +6,4 @@
 | [Calculator](https://github.com/MaybeRT-rt/Calculator) |  | <img align="left" src="https://github.com/MaybeRT-rt/gif/blob/main/calc.png" width="150">                                                        |
 | [Xylophone](https://github.com/MaybeRT-rt/Xylophone) | Stack: <br>- Swift 5 <br>- UIKit <br>- AVFoundation <br>- MVC <br>- Pattern Delegate <br>- GCD <br>- Minimal UI Animation | <img align="left" src="https://github.com/MaybeRT-rt/gif/blob/main/xylophone.png" width="150"> |
 | [Egg-Timer](https://github.com/MaybeRT-rt/Egg-Timer) | Stack: <br>- Swift 5 <br>- UIKit <br>- MVC <br>- AVFoundation <br>- Pattern Delegate <br>- Minimal UI Animation |  <img align="left" src="https://github.com/MaybeRT-rt/gif/blob/main/egg.png" width="150"> |
+|[Quizzler](https://github.com/MaybeRT-rt/Quizzler)|Stack: <br>- Swift 5 <br>- UIKit <br>- MVC <br>- Pattern Delegate |  <img align="left" src="Simulator Screenshot - iPhone 15 Pro - 2023-11-07 at 23-portrait.png" width="150">
